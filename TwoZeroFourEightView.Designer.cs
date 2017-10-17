@@ -54,218 +54,234 @@
             // lbl00
             // 
             this.lbl00.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.lbl00.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbl00.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl00.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.lbl00.Location = new System.Drawing.Point(19, 11);
+            this.lbl00.Location = new System.Drawing.Point(25, 15);
             this.lbl00.Name = "lbl00";
-            this.lbl00.Size = new System.Drawing.Size(51, 51);
+            this.lbl00.Size = new System.Drawing.Size(67, 67);
             this.lbl00.TabIndex = 0;
             this.lbl00.Text = "0";
             // 
             // lbl01
             // 
             this.lbl01.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.lbl01.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbl01.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl01.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.lbl01.Location = new System.Drawing.Point(79, 12);
+            this.lbl01.Location = new System.Drawing.Point(105, 16);
             this.lbl01.Name = "lbl01";
-            this.lbl01.Size = new System.Drawing.Size(51, 51);
+            this.lbl01.Size = new System.Drawing.Size(67, 67);
             this.lbl01.TabIndex = 1;
             this.lbl01.Text = "0";
             // 
             // lbl02
             // 
             this.lbl02.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.lbl02.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbl02.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl02.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.lbl02.Location = new System.Drawing.Point(140, 11);
+            this.lbl02.Location = new System.Drawing.Point(186, 15);
             this.lbl02.Name = "lbl02";
-            this.lbl02.Size = new System.Drawing.Size(51, 51);
+            this.lbl02.Size = new System.Drawing.Size(67, 67);
             this.lbl02.TabIndex = 2;
             this.lbl02.Text = "0";
             // 
             // lbl03
             // 
             this.lbl03.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.lbl03.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbl03.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl03.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.lbl03.Location = new System.Drawing.Point(209, 9);
+            this.lbl03.Location = new System.Drawing.Point(279, 11);
             this.lbl03.Name = "lbl03";
-            this.lbl03.Size = new System.Drawing.Size(51, 51);
+            this.lbl03.Size = new System.Drawing.Size(67, 67);
             this.lbl03.TabIndex = 3;
             this.lbl03.Text = "0";
             // 
             // lbl13
             // 
             this.lbl13.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.lbl13.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbl13.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl13.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.lbl13.Location = new System.Drawing.Point(209, 74);
+            this.lbl13.Location = new System.Drawing.Point(279, 96);
             this.lbl13.Name = "lbl13";
-            this.lbl13.Size = new System.Drawing.Size(51, 51);
+            this.lbl13.Size = new System.Drawing.Size(67, 67);
             this.lbl13.TabIndex = 7;
             this.lbl13.Text = "0";
             // 
             // lbl12
             // 
             this.lbl12.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.lbl12.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbl12.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl12.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.lbl12.Location = new System.Drawing.Point(142, 74);
+            this.lbl12.Location = new System.Drawing.Point(190, 96);
             this.lbl12.Name = "lbl12";
-            this.lbl12.Size = new System.Drawing.Size(51, 51);
+            this.lbl12.Size = new System.Drawing.Size(67, 67);
             this.lbl12.TabIndex = 6;
             this.lbl12.Text = "0";
             // 
             // lbl11
             // 
             this.lbl11.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.lbl11.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbl11.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl11.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.lbl11.Location = new System.Drawing.Point(81, 74);
+            this.lbl11.Location = new System.Drawing.Point(107, 96);
             this.lbl11.Name = "lbl11";
-            this.lbl11.Size = new System.Drawing.Size(51, 51);
+            this.lbl11.Size = new System.Drawing.Size(67, 67);
             this.lbl11.TabIndex = 5;
             this.lbl11.Text = "0";
             // 
             // lbl10
             // 
             this.lbl10.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.lbl10.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbl10.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl10.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.lbl10.Location = new System.Drawing.Point(19, 74);
+            this.lbl10.Location = new System.Drawing.Point(25, 96);
             this.lbl10.Name = "lbl10";
-            this.lbl10.Size = new System.Drawing.Size(51, 51);
+            this.lbl10.Size = new System.Drawing.Size(67, 67);
             this.lbl10.TabIndex = 4;
             this.lbl10.Text = "0";
             // 
             // lbl23
             // 
             this.lbl23.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.lbl23.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbl23.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl23.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.lbl23.Location = new System.Drawing.Point(209, 138);
+            this.lbl23.Location = new System.Drawing.Point(279, 180);
             this.lbl23.Name = "lbl23";
-            this.lbl23.Size = new System.Drawing.Size(51, 51);
+            this.lbl23.Size = new System.Drawing.Size(67, 67);
             this.lbl23.TabIndex = 11;
             this.lbl23.Text = "0";
             // 
             // lbl22
             // 
             this.lbl22.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.lbl22.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbl22.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl22.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.lbl22.Location = new System.Drawing.Point(142, 138);
+            this.lbl22.Location = new System.Drawing.Point(190, 180);
             this.lbl22.Name = "lbl22";
-            this.lbl22.Size = new System.Drawing.Size(51, 51);
+            this.lbl22.Size = new System.Drawing.Size(67, 67);
             this.lbl22.TabIndex = 10;
             this.lbl22.Text = "0";
             // 
             // lbl21
             // 
             this.lbl21.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.lbl21.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbl21.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl21.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.lbl21.Location = new System.Drawing.Point(82, 138);
+            this.lbl21.Location = new System.Drawing.Point(110, 180);
             this.lbl21.Name = "lbl21";
-            this.lbl21.Size = new System.Drawing.Size(51, 51);
+            this.lbl21.Size = new System.Drawing.Size(67, 67);
             this.lbl21.TabIndex = 9;
             this.lbl21.Text = "0";
             // 
             // lbl20
             // 
             this.lbl20.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.lbl20.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbl20.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl20.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.lbl20.Location = new System.Drawing.Point(19, 138);
+            this.lbl20.Location = new System.Drawing.Point(25, 180);
             this.lbl20.Name = "lbl20";
-            this.lbl20.Size = new System.Drawing.Size(51, 51);
+            this.lbl20.Size = new System.Drawing.Size(67, 67);
             this.lbl20.TabIndex = 8;
             this.lbl20.Text = "0";
             // 
             // lbl33
             // 
             this.lbl33.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.lbl33.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbl33.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl33.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.lbl33.Location = new System.Drawing.Point(209, 201);
+            this.lbl33.Location = new System.Drawing.Point(279, 263);
             this.lbl33.Name = "lbl33";
-            this.lbl33.Size = new System.Drawing.Size(51, 51);
+            this.lbl33.Size = new System.Drawing.Size(67, 67);
             this.lbl33.TabIndex = 15;
             this.lbl33.Text = "0";
             // 
             // lbl32
             // 
             this.lbl32.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.lbl32.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbl32.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl32.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.lbl32.Location = new System.Drawing.Point(142, 201);
+            this.lbl32.Location = new System.Drawing.Point(190, 263);
             this.lbl32.Name = "lbl32";
-            this.lbl32.Size = new System.Drawing.Size(51, 51);
+            this.lbl32.Size = new System.Drawing.Size(67, 67);
             this.lbl32.TabIndex = 14;
             this.lbl32.Text = "0";
             // 
             // lbl31
             // 
             this.lbl31.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.lbl31.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbl31.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl31.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.lbl31.Location = new System.Drawing.Point(82, 201);
+            this.lbl31.Location = new System.Drawing.Point(110, 263);
             this.lbl31.Name = "lbl31";
-            this.lbl31.Size = new System.Drawing.Size(51, 51);
+            this.lbl31.Size = new System.Drawing.Size(67, 67);
             this.lbl31.TabIndex = 13;
             this.lbl31.Text = "0";
             // 
             // lbl30
             // 
             this.lbl30.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.lbl30.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbl30.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbl30.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.lbl30.Location = new System.Drawing.Point(19, 201);
+            this.lbl30.Location = new System.Drawing.Point(25, 263);
             this.lbl30.Name = "lbl30";
-            this.lbl30.Size = new System.Drawing.Size(51, 51);
+            this.lbl30.Size = new System.Drawing.Size(67, 67);
             this.lbl30.TabIndex = 12;
             this.lbl30.Text = "0";
             // 
             // btnLeft
             // 
-            this.btnLeft.Location = new System.Drawing.Point(85, 336);
+            this.btnLeft.Location = new System.Drawing.Point(113, 440);
             this.btnLeft.Name = "btnLeft";
-            this.btnLeft.Size = new System.Drawing.Size(53, 45);
+            this.btnLeft.Size = new System.Drawing.Size(71, 59);
             this.btnLeft.TabIndex = 16;
+            this.btnLeft.TabStop = false;
             this.btnLeft.Text = "<";
             this.btnLeft.UseVisualStyleBackColor = true;
             this.btnLeft.Click += new System.EventHandler(this.btnLeft_Click);
+            this.btnLeft.KeyDown += new System.Windows.Forms.KeyEventHandler(this.key_Down);
+            this.btnLeft.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.key_Press);
+            this.btnLeft.KeyUp += new System.Windows.Forms.KeyEventHandler(this.key_Down);
             // 
             // btnUp
             // 
-            this.btnUp.Location = new System.Drawing.Point(140, 307);
+            this.btnUp.Location = new System.Drawing.Point(186, 401);
             this.btnUp.Name = "btnUp";
-            this.btnUp.Size = new System.Drawing.Size(53, 45);
+            this.btnUp.Size = new System.Drawing.Size(71, 59);
             this.btnUp.TabIndex = 17;
+            this.btnUp.TabStop = false;
             this.btnUp.Text = "^";
             this.btnUp.UseVisualStyleBackColor = true;
             this.btnUp.Click += new System.EventHandler(this.btnUp_Click);
+            this.btnUp.KeyDown += new System.Windows.Forms.KeyEventHandler(this.key_Down);
+            this.btnUp.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.key_Press);
+            this.btnUp.KeyUp += new System.Windows.Forms.KeyEventHandler(this.key_Down);
             // 
             // btnRight
             // 
-            this.btnRight.Location = new System.Drawing.Point(195, 336);
+            this.btnRight.Location = new System.Drawing.Point(259, 440);
             this.btnRight.Name = "btnRight";
-            this.btnRight.Size = new System.Drawing.Size(53, 45);
+            this.btnRight.Size = new System.Drawing.Size(71, 59);
             this.btnRight.TabIndex = 18;
+            this.btnRight.TabStop = false;
             this.btnRight.Text = ">";
             this.btnRight.UseVisualStyleBackColor = true;
             this.btnRight.Click += new System.EventHandler(this.btnRight_Click);
+            this.btnRight.KeyDown += new System.Windows.Forms.KeyEventHandler(this.key_Down);
+            this.btnRight.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.key_Press);
+            this.btnRight.KeyUp += new System.Windows.Forms.KeyEventHandler(this.key_Down);
             // 
             // btnDown
             // 
-            this.btnDown.Location = new System.Drawing.Point(140, 371);
+            this.btnDown.Location = new System.Drawing.Point(186, 485);
             this.btnDown.Name = "btnDown";
-            this.btnDown.Size = new System.Drawing.Size(53, 45);
+            this.btnDown.Size = new System.Drawing.Size(71, 59);
             this.btnDown.TabIndex = 19;
+            this.btnDown.TabStop = false;
             this.btnDown.Text = "v";
             this.btnDown.UseVisualStyleBackColor = true;
             this.btnDown.Click += new System.EventHandler(this.btnDown_Click);
+            this.btnDown.KeyDown += new System.Windows.Forms.KeyEventHandler(this.key_Down);
+            this.btnDown.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.key_Press);
+            this.btnDown.KeyUp += new System.Windows.Forms.KeyEventHandler(this.key_Down);
             // 
             // lblScore
             // 
@@ -273,18 +289,19 @@
             this.lblScore.BackColor = System.Drawing.Color.White;
             this.lblScore.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.lblScore.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(222)));
-            this.lblScore.Location = new System.Drawing.Point(117, 268);
-            this.lblScore.MinimumSize = new System.Drawing.Size(100, 0);
+            this.lblScore.Location = new System.Drawing.Point(212, 347);
+            this.lblScore.MinimumSize = new System.Drawing.Size(134, 0);
             this.lblScore.Name = "lblScore";
             this.lblScore.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.lblScore.Size = new System.Drawing.Size(100, 27);
+            this.lblScore.Size = new System.Drawing.Size(134, 33);
             this.lblScore.TabIndex = 20;
+            this.lblScore.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // TwoZeroFourEightView
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 17F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(344, 428);
+            this.ClientSize = new System.Drawing.Size(391, 564);
             this.Controls.Add(this.lblScore);
             this.Controls.Add(this.btnDown);
             this.Controls.Add(this.btnRight);
@@ -306,6 +323,7 @@
             this.Controls.Add(this.lbl02);
             this.Controls.Add(this.lbl01);
             this.Controls.Add(this.lbl00);
+            this.Font = new System.Drawing.Font("Modern No. 20", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Name = "TwoZeroFourEightView";
             this.Text = "Form1";
             this.ResumeLayout(false);

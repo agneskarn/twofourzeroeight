@@ -12,6 +12,8 @@ namespace twozerofoureight
         protected int[,] board;
         protected Random rand;
 
+        private Boolean gameOver = false;
+
         public TwoZeroFourEightModel() : this(4)
         {
             // default board size is 4 
@@ -50,9 +52,53 @@ namespace twozerofoureight
             return output;
         }
 
+        public bool GameOver(int[,] board)
+        {
+            for (int i = 0; i < 4; i++)
+            {
+                for (int j = 0; j < 4; j++)
+                {
+                    if (i - 1 >= 0)
+                    {
+                        if (board[i - 1, j] == board[i, j])
+                        {
+                            return false;
+                        }
+                        if (i + 1 < 4)
+                        {
+                            if (board[i + 1, j] == board[i, j])
+                            {
+                                return false;
+                            }
+                        }
+                        if (j - 1 >= 0)
+                        {
+                            if (board[i, j - 1] == board[i, j])
+                            {
+                                return false;
+                            }
+                        }
+                        if (j + 1 < 4)
+                        {
+                            if (board[i, j + 1] == board[i, j])
+                            {
+                                return false;
+                            }
+                        }
+                        if (board[i, j] == 0)
+                        {
+                            return false;
+                        }
+                    }
+                }
+              
+            }
+            return true;
+        }
+
         private int[,] Random(int[,] input)
         {
-            while (true)
+            while (!fullboard(input))
             {
                 int x = rand.Next(boardSize);
                 int y = rand.Next(boardSize);
@@ -63,6 +109,19 @@ namespace twozerofoureight
                 }
             }
             return input;
+        }
+
+        private bool fullboard(int[,] input)
+        {
+            for (int i=0;i<4;i++)
+            {
+                for(int j=0;j<4;j++)
+                {
+                    if (input[i, j] == 0)
+                        return false;
+                }
+            }
+            return true;
         }
 
         public void PerformDown()
